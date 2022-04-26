@@ -1,0 +1,17 @@
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\bin\Debug\netstandard2.0\AndroidRecorder.deps.json
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\bin\Debug\netstandard2.0\AndroidRecorder.dll
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\bin\Debug\netstandard2.0\AndroidRecorder.pdb
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\bin\Debug\netstandard2.0\Vosk.dll
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\AndroidRecorder.csproj.AssemblyReference.cache
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\AndroidRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\AndroidRecorder.AssemblyInfoInputs.cache
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\AndroidRecorder.AssemblyInfo.cs
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\AndroidRecorder.csproj.CoreCompileInputs.cache
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\AndroidRecorder.csproj.CopyComplete
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\AndroidRecorder.dll
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\refint\AndroidRecorder.dll
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\AndroidRecorder.pdb
+C:\Projects\VisualsProjects\AndroidRecorder\AndroidRecorder\obj\Debug\netstandard2.0\ref\AndroidRecorder.dll

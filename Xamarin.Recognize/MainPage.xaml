@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinRecognize.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Speech Recognizer" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout x:Name="RecordingStack">
+                    <Button Text="Clean root" Clicked="Button_Clicked"/>
+                    <Label Text="Recording Test" HorizontalTextAlignment="Center"/>
+                    <Button Text="Start Record" Clicked="SwitchRecord"/>
+                    <Button Text="Play Sample" Clicked="PlayRecord"/>
+                </StackLayout>
+                <Label x:Name="InitRecogLabel" HorizontalTextAlignment="Center"  Text="Initializing recognize module..."/>
+                <StackLayout IsVisible="false" x:Name="RecogFromDiskColdStack">
+                    <BoxView BackgroundColor="White"/>
+                    <Label Text="Recognize recorded sample" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="RecognizeFromDiskResult" TextColor="Black"/>
+                    <Button Text="Start Recognize from disk" Clicked="RecognizeFromDisk"/>
+                </StackLayout>
+                <StackLayout IsVisible="false" x:Name="RecognizeRealtimeStack">
+                    <BoxView BackgroundColor="White"/>
+                    <Label Text="Recognize Realtime" HorizontalTextAlignment="Center"/>
+                    <Label x:Name="RecognizeRealtimeResult" TextColor="Black"/>
+                    <Button x:Name="RecognizeSwitchState" Text="Start Recognize realtime" Clicked="RecognizeRealtime"/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+    
+</ContentPage>
